@@ -1,12 +1,10 @@
-## Hi there 👋
+# 🌄 Winvision
+## 🙋‍♀️ A short introduction
+Winvision is ...
 
-<!--
+## 🌈 Contribution guidelines
+Everything in the repositories of this organisation is made public by Winvision and can be used in other projects/products under the licences specified in each respective repository. These repositories are open to suggestions/feedback (file an [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)) and [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👩‍💻 Useful resources
+Website: https://www.winvision.nl
+Twitter: https://twitter.com/winvision
