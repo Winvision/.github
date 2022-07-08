@@ -1,4 +1,3 @@
-# 🌄 Winvision
 ## 🙋‍♀️ A short introduction
 Winvision is ...
 
@@ -7,4 +6,5 @@ Everything in the repositories of this organisation is made public by Winvision 
 
 ## 👩‍💻 Useful resources
 Website: https://www.winvision.nl
+
 Twitter: https://twitter.com/winvision
